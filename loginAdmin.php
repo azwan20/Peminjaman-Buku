@@ -60,7 +60,7 @@ if (isset($_POST["submit"])) {
                     <input type="text" name="username" placeholder="Username"><br>
                     <input type="password" name="password" placeholder="Password">
                     <section>
-                        <a href="login.php" style="color: red; text-decoration:none;">Login sebagai Nasabah</a>
+                        <a href="login.php" style="color: red; text-decoration:none;">Login sebagai Mahasiswa</a>
                     </section>
                 </span>
                 <button type="submit" name="submit">LOGIN</button>
