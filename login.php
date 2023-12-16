@@ -55,7 +55,7 @@ if (isset($_POST["submit"])) {
     <form action="" method="post">
         <div class="d-flex login">
             <div class="loginCard">
-                <h1 style="color: #163E71;">LOGIN NASABAH</h1>
+                <h1 style="color: #163E71;">LOGIN MAHASISWA</h1>
                 <span>
                     <input type="text" name="username" placeholder="Username"><br>
                     <input type="password" name="password" placeholder="Password">
